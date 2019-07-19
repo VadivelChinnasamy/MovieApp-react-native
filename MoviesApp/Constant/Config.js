@@ -1,5 +1,5 @@
 const base_url = "http://api.themoviedb.org/3/";
-const api_key = "?api_key=824e6813a740068e24a630f5083b0811";
+const api_key = "?api_key=xxxxxxxx xxxxx x  xxxx";
 const config = {
   movies: {
     popular: base_url + "movie/popular" + api_key,
